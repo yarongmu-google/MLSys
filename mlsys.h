@@ -80,6 +80,7 @@ absl::StatusOr<Problem> ReadProblem(const std::string& filename);
 
 struct Subgraph {
   std::vector<size_t> ops;
+  std::vector<size_t> tensors_to_retain;
   Granularity granularity;
   std::optional<TraversalOrder> traversal_order;
   SubgraphLatency subgraph_latency;
