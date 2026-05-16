@@ -24,7 +24,7 @@ When a participant submitted multiple times, only the most recent submission cou
 |:---|:---|:---|---:|:---|
 | First Place 🥇 | $10,000 | Vinci | 19.22 | TBD |
 | Second Place 🥈 | $7,500 | VNRC | 18.52 | TBD |
-| Third Place 🥉 | $5,000 | curling-grad | 18.32 | TBD |
+| Third Place 🥉 | $5,000 | curling-grad | 18.32 | [\[code\]](https://github.com/sohnryang/mlsys2026-graph-scheduling) |
 | Special Innovation Award ⭐ | $2,500 | Jag | — | TBD |
 
 ## Track B: Agent Reasoning — Winners
