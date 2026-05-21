@@ -32,7 +32,7 @@ When a participant submitted multiple times, only the most recent submission cou
 | Rank | Prize | Team | Score | Code |
 |:---|:---|:---|---:|:---|
 | First Place 🥇 | $10,000 | TeamKorea | 20.97 | TBD |
-| Second Place 🥈 | $7,500 | MLSys2026_TrackB_Bharath | 20.83 | TBD |
+| Second Place 🥈 | $7,500 | Scratchpad | 20.83 | TBD |
 | Third Place 🥉 | $5,000 | Lazy Schedulers | 18.86 | TBD |
 | Special Innovation Award ⭐ | $2,500 | iceburge | — | TBD |
 
