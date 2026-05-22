@@ -24,7 +24,7 @@ When a participant submitted multiple times, only the most recent submission cou
 |:---|:---|:---|---:|:---|
 | First Place 🥇 | $10,000 | Vinci | 19.22 | [Code](https://github.com/wenqi-deng/mlsys-2026-graph-scheduler) |
 | Second Place 🥈 | $7,500 | VNRC | 18.52 | [Code](https://github.com/huawei-csl/mlsys-2026-graph-scheduling-vnrc-submission) |
-| Third Place 🥉 | $5,000 | curling-grad | 18.32 | TBD |
+| Third Place 🥉 | $5,000 | curling-grad | 18.32 | TBD, [Talk](https://www.youtube.com/watch?v=lYm4ULUaUB8) |
 | Special Innovation Award ⭐ | $2,500 | Jag | — | TBD |
 
 ## Track B: Agent Reasoning — Winners
@@ -33,7 +33,7 @@ When a participant submitted multiple times, only the most recent submission cou
 |:---|:---|:---|---:|:---|
 | First Place 🥇 | $10,000 | TeamKorea | 20.97 | TBD |
 | Second Place 🥈 | $7,500 | Scratchpad | 20.83 | TBD |
-| Third Place 🥉 | $5,000 | Lazy Schedulers | 18.86 | TBD |
+| Third Place 🥉 | $5,000 | Lazy Schedulers | 18.86 | TBD, [Talk](https://drive.google.com/file/d/1Wgn7bn_67C97ONRimvcNeMRvIMBtO9MB/view) |
 | Special Innovation Award ⭐ | $2,500 | iceburge | — | TBD |
 
 Congratulations to all winning teams, and thanks to every participant for an exceptionally strong field of submissions.
