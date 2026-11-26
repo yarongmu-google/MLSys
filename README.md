@@ -33,7 +33,7 @@ When a participant submitted multiple times, only the most recent submission cou
 |:---|:---|:---|---:|:---|
 | First Place 🥇 | $10,000 | TeamKorea | 20.97 | TBD |
 | Second Place 🥈 | $7,500 | Scratchpad | 20.83 | TBD |
-| Third Place 🥉 | $5,000 | Lazy Schedulers | 18.86 | TBD, [Talk](https://drive.google.com/file/d/1Wgn7bn_67C97ONRimvcNeMRvIMBtO9MB/view) |
+| Third Place 🥉 | $5,000 | Lazy Schedulers | 18.86 | [Code](https://github.com/VThejas/mlsys-competition-2026-lazy-schedulers), [Talk](https://drive.google.com/file/d/1Wgn7bn_67C97ONRimvcNeMRvIMBtO9MB/view) |
 | Special Innovation Award ⭐ | $2,500 | iceburge | — | TBD |
 
 Congratulations to all winning teams, and thanks to every participant for an exceptionally strong field of submissions.
